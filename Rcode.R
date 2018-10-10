@@ -20,3 +20,7 @@ if(b > a){
 } else {
   print("b is not lager than b")
 }
+
+# Desktop RAM: Mininum 8GB , 128GB Graphic Card: 4 GTX1080 32GB
+# Subject 선형대수 Linear Algebra Ahnton, 미적분학 Calculus Thomson
+# 괄호와 quotation 확인
