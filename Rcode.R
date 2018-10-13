@@ -1,3 +1,7 @@
+# Desktop RAM: Mininum 8GB , 128GB Graphic Card: 4 GTX1080 32GB
+# Subject 선형대수 Linear Algebra Ahnton, 미적분학 Calculus Thomson
+# 괄호와 quotation 확인
+
 ########## 06 Oct 2018 ##########
 va <- c(1,2,3); vb <- c(4,5,6); vc <- c(7,8,9);
 # va;vb;vc;
@@ -22,6 +26,3 @@ if(b > a){
   print("b is not lager than b")
 }
 
-# Desktop RAM: Mininum 8GB , 128GB Graphic Card: 4 GTX1080 32GB
-# Subject 선형대수 Linear Algebra Ahnton, 미적분학 Calculus Thomson
-# 괄호와 quotation 확인
