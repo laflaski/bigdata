@@ -26,3 +26,45 @@ if(b > a){
   print("b is not lager than b")
 }
 
+
+if(a > b){
+  "a is larger than b"
+} else if (a ==b){
+  "a is equal to b"
+} else {
+  "a is smaller than b"
+}
+
+brand1 <- c("Prada"); item1 <- c("Wallet"); price1 <- c(1000);
+brand2 <- c("Hermes"); item2 <- c("Lipstick"); price2 <- c(800);
+
+Choice1 <- c(brand1, item1, price1);
+Choice2 <- c(brand2, item2, price2);
+
+C <- NULL; C <- rbind(Choice1, Choice2);
+
+colnames(C) <- rbind(Choice1,Choice2);
+
+result <- NULL;
+for(i in 1:10){
+  cat(i*2,"\n")
+  result <- i*2; cat()
+  }
+
+start <- 1;
+while (start <=10){
+  cat(start*2,"\n");
+  start <- start +1;
+}
+
+
+dinner <- 1; choice <- "b";
+
+if(dinner==1){
+  cat("한식"," ");
+  if(choice=="a"){
+    cat("차돌박이된장찌개","\n");
+  } else {
+    cat("삼겹살","\n");
+  }
+}
